@@ -1,9 +1,3 @@
-# Prompt 2
-
-To deploy my application to production
-First I will have to build the project to have a production ready build version.
-then create an express server to link my build app to that before deploy.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
